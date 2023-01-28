@@ -1,0 +1,20 @@
+@import url(./styles/header.css);
+@import url(./styles/main.css);
+@import url(./styles/section_vagas.css);
+@import url(./styles/section_depoimentos.css);
+@import url(./styles/footer.css);
+
+:root {
+  --fonte: 'Inter';
+  --corPrincipal: #8E2424;
+  --corTitulo: #101828;
+  --corTexto: #667085;
+}
+
+body {
+  font-size: 16px;
+  color: var(--corTexto);
+  font-family: var(--fonte);
+  box-sizing: border-box;
+  line-height: 1.5em;
+}

@@ -1,0 +1,25 @@
+.footer-container {
+  text-align: center;
+  background-color: #F9FAFB;
+  padding: 96px 0;
+}
+
+.input-footer {
+  padding: 10px 14px 10px 16px;
+  width: 360px;
+  background: #FFFFFF;
+  border: 1px solid #D0D5DD;
+  box-shadow: 0px 1px 2px rgba(16, 24, 40, 0.05);
+  border-radius: 8px;
+  margin: 40px 0.5em 32px 0;
+}
+
+.input-footer::placeholder {
+  font-family: var(--fonte);
+  font-size: 14px;
+}
+
+.footer-texto {
+  color: #98A2B3;
+
+}
